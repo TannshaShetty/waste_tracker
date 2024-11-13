@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-file_path = '/Users/tannshashetty/Downloads/food_wastage_data.csv'
+file_path = 'food_wastage_data.csv'
 data = pd.read_csv(file_path)
 
 # App title and description with emojis, centered
