@@ -26,7 +26,7 @@ st.markdown(
 )
 
 # Add an image related to food waste
-image_path = '/Users/tannshashetty/Desktop/waste.png'  # Replace with your actual image path
+image_path = 'waste.png'  # Replace with your actual image path
 st.image(image_path, caption="", use_column_width=True)
 
 # Enhanced caption below the image, now centered
